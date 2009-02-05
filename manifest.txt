@@ -1,0 +1,30 @@
+\tmp¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­ The temporary folder is used to deposit temporary files which will be used during the running of program.
+\logs¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Folder of running logs. Files in this folder will record the process of intermediate interface's data exchange.
+\Chats¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Folder of chat logs. The format to desposit chat logs is : pattern -> user name -> log files 
+\language¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­The language folder includes the letters of displayed interface of program.  must exist
+\res¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­The resource folder consists of all resource files when program runs
+\IPC¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­The folder of intermediate exchange module
+
+
+start.pl¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­The startup program of the whole program running
+irc.pl¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­IRC network client
+msn.pl¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­MSN network client
+play_sound.pl¡­¡­¡­¡­¡­¡­¡­¡­There is a warning tone when some chat logs arrive 
+svnupdata.pl¡­¡­¡­¡­¡­¡­¡­¡­¡­Update program
+
+
+
+main.pm¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Main module for front module
+chat.pm¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Form module for private chat
+settings.pm¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Form module for setting
+change.pm¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Module of tray icon
+network.pm¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Module for net testing
+remote_control.pm ¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Module for remote control
+public.pm¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­ Module for public use
+
+
+readme.txt¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­File for program statement
+setlogin.ini¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Configuration file of login information, configure this file can decide to use which account to login
+settings.ini¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­Configuration file of interface display
+
+clear.cmd¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­¡­A tool which elminates useless folders is used to release.

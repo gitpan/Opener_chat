@@ -1,0 +1,96 @@
+{menu_edit}=Configuration
+{menu_cls}=Clean screen 
+{menu_chage_nick}=Change nickname
+{menu_sound}=Warning tone
+{menu_balloon}=Balloon frame
+{menu_savelog}=Save chat logs
+{menu_updatauser}=Update the list of online users
+{menu_hidwindow}=Minimize to system tray
+{menu_quit}=Quit
+{menu_ok}=OK
+{menu_cancel}=Cancel
+{menu_edit_ok}=Successful configuration
+
+{menu_refresh}=Update
+{menu_refprogram}=Update program
+{menu_help}=Help
+{menu_doshelp}=Request the help of dos command line
+{menu_vnchelp}=Requests of vnc connection 
+{menu_about}=About
+
+{menu_autorun}=Autorun at startup
+{form1_title}=OPener Chat
+{label1_onlineuser}=Online user
+{label2_servicestitle}=Service
+{label3_servicesinfo1}=Remote service is not connected.
+{label4_nickname}=Nickname
+{label5_ircser}=Server
+{label6_channel}=Channel
+{button1_sendtext}=Send
+{button1_port}=Port
+
+{notifyicon1_tip}=OPener Chat
+{notifyicon1_texttip}=The communicated platform of white hat customs
+{notifyicon1_texttitle}=OPener Chat
+{menus_mint1}=Minimize to tray
+{menus_mint2}=Restore window
+
+{msgbox1_text1}=OPener Chat
+{msgbox1_text2}=Telephone
+{msgbox1_text3}=About
+$g->{display}->{msgbox1_text4}=HomeSite
+
+{msgbox2_text1}=Whether minimize the program to tray or not?
+{msgbox_title_ts}=Prompt
+{balloon_text_new_message}=Receive new message
+
+{balloon_chagetext1}=Receive messages of group chat
+{balloon_chagetext_getmessage}=Receive messages from
+{msgbox_text1_notconnect}=Cannot connect the net,please check net connection
+{msgbox_text_user_already_in_use}=This nickname is existed, so change it now
+{msgbox_text_connect_err}=Fail to connect the net. Program is trying to reconnect now.
+{msgbox_text_runfile_err}=Startup fails. This file may nonexist or discard. Program will quit instantly.
+{msgbox_text_undata_ok}=Upgrade is finish, then restart the program
+{msgbox_text_nofind_new_svn}=Not find the new version
+{balloon_chagetext_updata_programe}=Update program
+{balloon_chagetext_updata_programe2}=There is a new version which can be updated
+{msgbox_text_havenew_svn}=It finds that this program has a higher version existed, whether update or not.
+{msgbox_text_connect_svnservice_err}=Fail to connect the update server
+{label5_ircser_text}=Freenode server
+{label6_channel_text}=The channel of group chat
+{file_dir1}=Logs of public chat
+{file_dir1_filenamepart}=Logs of group chat
+{file_dir2}=Logs of private chat
+
+{display_text_youself}=Yourself
+{msgbox_text_err_send_msgnot_space}=Error:  sending content cannot be blank
+{diplay_text_chating}=Chatting
+
+{text_connect_ask}=Connection requests
+{text_user_stop_connect}=User disconnects
+{text_services_not_connect}=Remote server cannot connect
+{text_disk_connect_ask}=User requires the connection of desktop control
+{text_vnc_connecting}=Connecting remote service of vnc desktop control
+{text_stop_vnc_connect}=Break the existing connection
+{text_nofind_admin}=No administrator is online! You cannot gain the help.
+{text_dos_connect}=Connecting remote service of dos command line control
+{text_stop_dos_connect}=Disconnect the help of dos command
+{text_admin_stop_connect}=Administrator breaks the connection
+{text_user_list_loading}=Loading the list of online users
+
+{msgbox_text_Agree_with_Remote_Control}=Agree remote control or not
+{msgbox_text_ask_vnc_control}=Request service of desktop control to you 
+{msgbox_text_agree_ask}=Agree your request! It has already signed up your machine remotely.
+{msgbox_text_vnc_control}=You are accepting the service of vnc remote desktop control.
+{msgbox_text_not_agree_request}=Refuse your request
+{msgbox_text_cut_connect}=Break the connection of remote desktop control with you 
+{msgbox_text_ask_dos_control}=Request the help of dos command line
+{msgbox_text_dos_control}= You are accepting the service of remote command line control.
+{msgbox_text_cut_dos_connect}=Disconnect your dos control
+
+{file_svnupdata_text}=Update files
+{file_kongzhi_programe_is_runing}=Process has run.
+{file_kongzhi_connect_ok}=Successfully establish
+{file_kongzhi_send_cmd}=Send commands
+{file_beikong_nofind_path}=System cannot find the destination path.
+{file_beikong_input_donot_space}=Input command cannot be blank.
